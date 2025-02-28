@@ -14,7 +14,7 @@ I’m a statistician working in aging, clinical trials and drug development. I h
 What code you'll find here: 
 
 - 💻 Personal [website](https://github.com/JessLGraves/jesslgraves.github.io) & blog posts
-- ⚡ [Shiny](https://github.com/JessLGraves?tab=repositories) work
+- ⚡ [Shiny](https://github.com/JessLGraves/skyrim-alchemy) work
 - 📈 Data vis
 - 📦 Rest Activity Rhythm modeling package ([RAR](https://github.com/JessLGraves/RAR))
 
