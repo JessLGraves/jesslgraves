@@ -22,7 +22,6 @@ What code you'll find here:
 
 -   🦋 [bluesky](https://bsky.app/profile/jessgraves.bsky.social)
 
-```{=html}
 <!--
 **JessLGraves/jesslgraves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -37,4 +36,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-```
